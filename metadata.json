@@ -1,8 +1,4 @@
 {
   "name": "The movie studio for a another planet",
-  "description": "A comprehensive filmmaking suite powered by Gemini for scriptwriting, storyboarding, and AI video concept generation.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
+  "description": "A comprehensive filmmaking suite powered by Gemini for scriptwriting, storyboarding, and AI video concept generation."
 }
